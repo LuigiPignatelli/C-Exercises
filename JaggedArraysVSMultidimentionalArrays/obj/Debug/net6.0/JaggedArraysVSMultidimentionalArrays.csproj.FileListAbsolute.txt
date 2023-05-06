@@ -1,0 +1,15 @@
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\bin\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.exe
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\bin\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.deps.json
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\bin\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.runtimeconfig.json
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\bin\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.dll
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\bin\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.pdb
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.csproj.AssemblyReference.cache
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.AssemblyInfoInputs.cache
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.AssemblyInfo.cs
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.dll
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\refint\JaggedArraysVSMultidimentionalArrays.dll
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.pdb
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\JaggedArraysVSMultidimentionalArrays.genruntimeconfig.cache
+C:\Users\LuigiPignatelli\source\repos\JaggedArraysVSMultidimentionalArrays\obj\Debug\net6.0\ref\JaggedArraysVSMultidimentionalArrays.dll

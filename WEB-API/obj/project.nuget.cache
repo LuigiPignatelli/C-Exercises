@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3Rmi+WHCdUywLaFkt7eONK6Ig2YpPf7q1W91uAn4+Qt4ZUwCcyLOozhWqmvi4ljMpqCz120CIGo28nJCzVHYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LuigiPignatelli\\source\\repos\\WEB-API\\WEB-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LuigiPignatelli\\.nuget\\packages\\microsoft.identity.client\\4.51.0\\microsoft.identity.client.4.51.0.nupkg.sha512",
+    "C:\\Users\\LuigiPignatelli\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}

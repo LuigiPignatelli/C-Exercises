@@ -1,0 +1,15 @@
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\bin\Debug\net6.0\CsharpLinqIntro.exe
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\bin\Debug\net6.0\CsharpLinqIntro.deps.json
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\bin\Debug\net6.0\CsharpLinqIntro.runtimeconfig.json
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\bin\Debug\net6.0\CsharpLinqIntro.dll
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\bin\Debug\net6.0\CsharpLinqIntro.pdb
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.csproj.AssemblyReference.cache
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.AssemblyInfoInputs.cache
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.AssemblyInfo.cs
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.csproj.CoreCompileInputs.cache
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.dll
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\refint\CsharpLinqIntro.dll
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.pdb
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\CsharpLinqIntro.genruntimeconfig.cache
+C:\Users\LuigiPignatelli\source\repos\CsharpLinqIntro\obj\Debug\net6.0\ref\CsharpLinqIntro.dll
